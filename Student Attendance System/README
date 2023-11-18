@@ -1,0 +1,5 @@
+This project consists of a Student Database System with inbuilt Attendance System <br>
+to use this project , you would need <br>
+1. MySQL , MYSQL connector <br>
+2. modules : qrcode,webbrowser,cv2,numpy,pyzbar,ast <br>
+This project was made in the year 2021 and is a personaly project
