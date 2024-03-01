@@ -1,4 +1,4 @@
-------------------------------------------------------Student-Attendence-System------------------------------------------------------------
+----------------------------------------------Student-Attendence-System----------------------------------------------------
 
 This is a Student Attendence System, which has been made completely using python.
 
