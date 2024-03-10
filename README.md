@@ -1,5 +1,5 @@
-----------------------------------------------Student-Attendence-System----------------------------------------------------
-
+#                                      Student-Attendence-System
+<hr>
 This is a Student Attendence System, which has been made completely using python.
 
 There are two different programs , one deals with File handling for database system and the database can be copied anywhere whereas the other programs uses MySQL as the database software. For this , external modules have been used.
